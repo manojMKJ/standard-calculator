@@ -164,4 +164,4 @@ h1{
 ![HTML Validator](./vaalid.png)
 
 ## Result:
-The program for designing a simple calculator using Jvascript is created successfully.
+The program for designing a simple calculator using Javascript is created successfully.
